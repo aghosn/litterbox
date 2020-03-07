@@ -1,3 +1,3 @@
-package common
+package litterbox
 
 type SyscallMask = uint64
