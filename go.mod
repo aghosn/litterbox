@@ -1,3 +1,3 @@
-module litterbox
+module github.com/aghosn/litterbox
 
-go 1.14
+go 1.13
