@@ -6,6 +6,7 @@ type SandboxDomain struct {
 	Id   string
 	Func string
 	Sys  SyscallMask
+	View map[*Package]uint8
 	Pkgs []*Package
 }
 
